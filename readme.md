@@ -1,5 +1,7 @@
 first commit : excel 文件夹转入MySQL的过程  
+
 second commit :合并excel用 遍历文件夹里的excel到合并all.xls   
+
 third commit: 查找excel内容  有道合谷歌翻译 百度orc在线的图片/本地图片    
 
 1、（先进入项目文件夹）通过命令 git init 把这个目录变成git可以管理的仓库
